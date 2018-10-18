@@ -1,3 +1,5 @@
+package uca-1.linked_list;
+
 interface Linked {
 	void addFirst(int data);
 	void addLast(int data);
