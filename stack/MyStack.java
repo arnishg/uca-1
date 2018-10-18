@@ -1,3 +1,5 @@
+package uca-1.stack
+
 interface c_stack {
 	void push(int a);
 	int pop();
