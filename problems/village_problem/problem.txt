@@ -1,0 +1,11 @@
+There are n villages and m hospitals 
+Population of every village is given in array int[] n = {10,7,7} i.e. number of villages are 3
+Given m > n
+Every village should have atleast one hospital
+Minimise the max number of patients for each hospital
+
+
+Solution:
+1. Initialise each village with 1 hospital
+2. Create a max heap of the densities of all hospitals
+3. Till number of hospitals (n > 0), increment the number of hospitals of village with max density (top of the heap)
