@@ -1,2 +1,0 @@
-Refer the link for problem statement
-https://www.geeksforgeeks.org/largest-rectangle-under-histogram/
