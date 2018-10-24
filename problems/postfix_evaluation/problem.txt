@@ -1,0 +1,16 @@
+Evaluate a given postfix expression
+
+Test Case
+Input
+235*+
+
+Output
+17
+
+Explanation
+(3*5)+2
+
+Input
+25*7/83*42*++
+Output
+33
